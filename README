@@ -1,7 +1,13 @@
-echo "# Final-Exam" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Cin1297/Final-Exam.git
-git push -u origin main
+Folder project Collaborative filtering yang terdiri dari:
+1. Kode Download and Explore Movie
+2. User-Based Collaborative Filtering
+3. Item-Based Collaborative Filtering
+4. Singular Value Decomposition
+5. Matrix Factorization
+6. Non-negative Matrix Factorization
+7. Explainable Matrix Factorization
+8. Performance Measure
+9. Dokumentasi program dan hasil
+10. Technical report Collaborative Filtering
+
+Seluruh code diambil dari link berikut: https://github.com/nzhinusoftcm/review-on-collaborative-filtering
